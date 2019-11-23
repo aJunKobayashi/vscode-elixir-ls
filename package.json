@@ -1,10 +1,10 @@
 {
-  "name": "elixir-ls",
-  "displayName": "ElixirLS: Elixir support and debugger",
-  "homepage": "https://github.com/JakeBecker/elixir-ls",
+  "name": "elixir-ls-custom",
+  "displayName": "ElixirLS: Elixir support and debugger Custom",
+  "homepage": "https://github.com/aJunKobayashi/vscode-elixir-ls",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JakeBecker/vscode-elixir-ls.git"
+    "url": "https://github.com/aJunKobayashi/vscode-elixir-ls.git"
   },
   "icon": "images/logo.png",
   "description": "Elixir support with debugger, autocomplete, and more. Powered by ElixirLS.",
